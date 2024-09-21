@@ -1,0 +1,55 @@
+.input-form{
+    margin: 30px;
+    padding: 30px;
+    text-align: center;
+}
+.input-box{
+    width: 30%;
+    padding: 15px;
+    border: 1px solid palevioletred;
+    box-shadow: 5px 5px 10px rgb(146, 145, 145);
+}
+.btn{
+    box-shadow: 5px 5px 10px rgb(146, 145, 145);
+}
+.cardfood{
+    margin: auto;
+    padding: 10px;
+    width: 20%;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 10px 10px 20px 10px rgb(179, 177, 177);
+
+}
+.card-img{
+    width: 100%;
+    height: 50%;
+    object-fit: fill;
+    /* border-radius: 15px; */
+    margin-bottom: 40px;
+}
+
+.card-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 15px;
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+.card-title{
+    padding-bottom: 30px;
+    font-weight: bold;
+}
+.card-title2{
+    padding-bottom: 8px;
+    font-weight: bold;
+}
+.fooddetails{
+    text-align: left;
+}
+/* .list-item{
+
+} */
